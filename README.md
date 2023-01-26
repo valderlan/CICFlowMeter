@@ -9,7 +9,7 @@ NOTE:
 
 ----------------------------------------
 
-# Installation and executing:
+# Installation and executing (CICFlowMeter):
 
 Download https://github.com/ahlashkari/CICFlowMeter
 
@@ -73,6 +73,14 @@ for realtime
 2 Select the interface you would like to monitor
 3 Click start button and wait for a while
 4 Click stop button to stop the process and save the csv in same applcation folder/data/daily
+```
+
+----------------------------------------
+# Convert .pcap to .json
+
+Lanunch the Comand Prompt and run this command (linux)
+```
+./pcaptojson.sh
 ```
 
 --------------------------------------------------------------
