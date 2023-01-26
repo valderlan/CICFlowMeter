@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "INICIANDO O PROCESSO PARA PCAP PARA JSON"
+echo "STARTING THE PROCESS FOR PCAP TO JSON"
 
 sudo ./cfm pcap csv
 python3 csvtojson.py
 
-echo "REALIZADO COM SUCESSO"
+echo "SUCCSSESFULLY DONE"
