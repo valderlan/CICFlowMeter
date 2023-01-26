@@ -78,7 +78,7 @@ for realtime
 ----------------------------------------
 # Convert .pcap to .json
 
-Lanunch the Comand Prompt and run this command (linux)
+Lanunch the Comand Prompt and run this command (linux) bin folder
 ```
 ./pcaptojson.sh
 ```
