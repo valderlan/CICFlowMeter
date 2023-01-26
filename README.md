@@ -25,12 +25,16 @@ ___Note: The only prerequisite is that "libpcap" library or WinPcap on windows s
 For Linux
 
 > $ sudo apt-get install libpcap-dev
+
 > Go to the jnetpcap folder inside CICFlowMeter/jnetpcap/linux/jnetpcap-1.4.r1425
+
 > Copy libjnetpcap.so and libjnetpcap-pcap100.so in /usr/lib/ (as sudo).
 
 For windows
 > download [winpcap](<https://www.winpcap.org/install/default.htm>)
+
 > Go to the jnetpcap folder inside CICFlowMeter/jnetpcap/win/jnetpcap-1.4.r1425
+
 > Copy libjnetpcap.dll and libjnetpcap-pcap100.dll in /usr/lib/ (as sudo).
 
 ## executing
