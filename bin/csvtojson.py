@@ -26,9 +26,6 @@ root, dirs, arquivos = next(os.walk("./csv/")) #'.'
 extensoes = ['csv']
 
 for i in arquivos:
-    '''if extensoes == []:
-        print(i)
-    else:'''
     extensao = i.split('.')[-1]
     if extensao in extensoes:
         nome, meio, fim=str(i).split(".")
