@@ -12,8 +12,11 @@ NOTE:
 # Installation and executing:
 
 Download https://github.com/ahlashkari/CICFlowMeter
+
 Download CICFlowMeter: https://drive.google.com/drive/folders/1WiE_3PJjZOu9KHooYP3tgCdeLc18Rk8W
+
 Extract CICFlowMeterV-4.0
+
 Copy everything to the same folder
 
 ___Note: The only prerequisite is that "libpcap" library or WinPcap on windows systems, be pre-installed___
